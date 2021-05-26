@@ -1,0 +1,4 @@
+﻿  MyDerivedException.cpp
+F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Lab_5.1-E\MyDerivedException.cpp(5,1): warning C5043: 'MyDerivedException::What': exception specification does not match previous declaration
+F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Lab_5.1-E\MyDerivedException.h(11): message : see declaration of 'MyDerivedException::What'
+  Lab_5.1-E.vcxproj -> F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Debug\Lab_5.1-E.exe

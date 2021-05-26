@@ -1,0 +1,19 @@
+﻿  UnitTest5.5-E.cpp
+F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Lab_5.1-E\BitString.h(19,11): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Lab_5.1-E\BitString.h(31,51): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Lab_5.1-E\BitString.h(32,44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Lab_5.1-E\BitString.h(33,53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Lab_5.1-E\BitString.h(34,46): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Lab_5.1-E\BitString.h(37,74): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Lab_5.1-E\BitString.h(24,40): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Lab_5.1-E\BitString.h(25,42): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Lab_5.1-E\BitString.cpp(11,64): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Lab_5.1-E\BitString.cpp(50,67): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Lab_5.1-E\BitString.cpp(68,61): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Lab_5.1-E\BitString.cpp(76,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Lab_5.1-E\BitString.cpp(84,63): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Lab_5.1-E\BitString.cpp(93,56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Lab_5.1-E\BitString.cpp(117,26): warning C4018: '<': signed/unsigned mismatch
+F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Lab_5.1-E\BitString.cpp(142,26): warning C4018: '<': signed/unsigned mismatch
+     Creating library F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Debug\UnitTest5.5-E.lib and object F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Debug\UnitTest5.5-E.exp
+  UnitTest5.5-E.vcxproj -> F:\ООП\Тема 5\Lab_5.1-E\Lab_5.1-E\Debug\UnitTest5.5-E.dll
